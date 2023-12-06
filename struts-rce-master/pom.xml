@@ -11,7 +11,7 @@
     <description>Struts 2 vulnerable application (CVE-2017-5638)</description>
 
     <properties>
-        <struts2.version>2.5.10</struts2.version>
+        <struts2.version>2.5.32</struts2.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
